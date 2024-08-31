@@ -1,10 +1,8 @@
+#@author: GaloisField
 #@desc: Compute normes and distances
 
 import numpy as np
-
-# Test with one timestamp variable
 from datetime import datetime
-
 
 
 ############################################
