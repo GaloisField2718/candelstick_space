@@ -4,6 +4,14 @@ In mathematics I always loved [Topology](https://en.wikipedia.org/wiki/Topology)
 
 When I discovered the trading and [Candelstick charts](https://en.wikipedia.org/wiki/Candlestick_chart) I was fascinated by the idea of understanding the space of the charts. More precisely, when we are looking a candelstick chart what is the underlying space that we are looking at?
 
+## Running the code
+```bash
+pipenv shell
+pipenv sync
+python3 main.py
+```
+You can try some functions by running an Interactive Python shell importing the file containing functions you want to test and running the functions.
+
 ## Introduction
 
 In this repository I want to try some ideas to understand the space of candelstick charts. I'll use mainly Python to stay in something easy to implement. 
