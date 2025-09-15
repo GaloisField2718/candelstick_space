@@ -244,7 +244,7 @@ An example of non-complete space is $\mathbb{Q}$, the set of rational numbers. Y
 **Proposition**: No sequence from candelstick charts can be convergent.
 **Proof**: Any convergent sequence is Cauchy. But we have shown that no such sequences can be Cauchy.
 
-This proposal is a counter argument to the fact that the free Market will create a price stability over time.
+This proposal could be a counter argument to the fact that the free Market will create a price stability over time.
 
 Study: $$(\mathcal{T} \times \mathbb{R}^4)^{\mathbb{N}}$$
 
